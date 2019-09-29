@@ -20,7 +20,7 @@ function IndexPage() {
         />
 
         <h2 className="bg-yellow-400 text-2xl font-bold inline-block my-8 p-3">
-          Hey there! Will is trying a bit of coding.
+          Hey there! Will is trying a bit of coding again.
         </h2>
 
         <p className="leading-loose">
